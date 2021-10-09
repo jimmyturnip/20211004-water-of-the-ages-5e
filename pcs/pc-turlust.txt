@@ -20,6 +20,9 @@ Tools: card set, vehicles (land), carpenter's tools
 Saving Throws: Strength, Constitution
 Skills: Athletics, Intimidation, Perception, Survival
 
+Second Wind [ ]
+Action Surge [x]
+
 Languages: Common, Elven
 
 Background Specialty: Infantry
@@ -31,8 +34,8 @@ Background Feature: Military Rank
 
 Equipment:
 battleaxe (+5, 1d8+5 slashing, versatile 1d10+3)
-light crossbow (+4, 1d8+4 piercing, range 80/320)
-20 bolts
+light crossbow (+4, 1d8+2 piercing, range 80/320)
+18 bolts
 chain mail (AC 16)
 shield (+2 AC)
 backpack

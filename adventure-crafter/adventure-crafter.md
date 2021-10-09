@@ -30,11 +30,11 @@
 
 ## Character List
 
-01-04	New character  
-05-08	New character  
-09-12	New character  
-13-16	Choose most logical character  
-17-20	New character  
+01-04	Turlust  
+05-08	Laeral  
+09-12	Himdri  
+13-16	Merchant House of Nathram  
+17-20	Araldor (dead?)  
 21-24	New character  
 25-28	New character  
 29-32	Choose most logical character  

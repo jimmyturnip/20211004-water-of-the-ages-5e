@@ -8,6 +8,7 @@ During the riot in the city of Tyr that eventually ends the reign of Kalak, some
 	| say water, as it's more fitting for the setting.
 	| Who is the person? [Strong, Military]. Of course, it's one of Turlust's former comrades-in-arms.
 	| What's their name? Araldor
+	| What's the name of the merchant house? Nathram
 
 ---
 

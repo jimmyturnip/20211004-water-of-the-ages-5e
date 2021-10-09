@@ -28,7 +28,7 @@ Spell save DC: 14
 Spell attack modifier: +6
 Cantrips (4): dancing lights, fire bolt, mending, prestidigitation
 Spells Known (4): 1st-burning hands, shield, sleep; 2nd-mirror image
-Spell Slots: 1st-4, 2nd-2
+Spell Slots: 1st-[x][ ][ ][ ], 2nd-[ ][ ]
 
 Sorcery Points: 3
 
