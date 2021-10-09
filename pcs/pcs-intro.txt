@@ -1,0 +1,18 @@
+/*
+|------------------------------------------
+| WHO ARE THE PCS?
+|------------------------------------------
+*/
+
+Turlust is a human fighter and ex-mercenary. He works as a guard for the merchant house.
+
+Laeral is a half-elf sorcerer. She is a friend of Turlust and Himdri, who both appreciate her magickal skills.
+
+Himdri is a dwarf earth cleric who works as a craftsman for the merchant house.
+
+/*
+|------------------------------------------
+| AN EPISODE
+|------------------------------------------
+*/
+

@@ -1,0 +1,52 @@
+Name: Laeral Tan
+Race: Half-Elf
+Class: Sorcerer (Draconic Bloodline [Red]) 2
+Background: Urchin
+
+Str	Dex	Con	Int	Wis	Cha
+12	14	12	11	12	17
+12	15	13	11	12	19
++1	+2	+1	+0	+1	+4
+
+AC: 15
+HP: 14
+
+Racial Traits: Darkvision, Fey Ancestry, Skill Versatility
+
+Class Features: Spellcasting, Sorcerous Origin (Draconic Bloodline), Dragon Ancestor, Draconic Resilience, Sorcery Points, Flexible Casting
+
+Proficiency Bonus: +2
+Armour: None
+Weapons: Daggers, darts, slings, quarterstaffs, light crossbows
+Tools: Disguise kit, thieves' tools
+Saving Throws: Constitution, Charisma
+Skills: Arcana, Deception, Insight, Sleight of Hand, Persuasion, Stealth
+
+Languages: Common, Draconic, Elven, Giant
+
+Spell save DC: 14
+Spell attack modifier: +6
+Cantrips (4): dancing lights, fire bolt, mending, prestidigitation
+Spells Known (3): 1st-burning hands, shield, sleep
+Spell Slots: 1st-3
+
+Sorcery Points: 2
+
+Equipment:
+2 daggers (+4, 1d4+2 piercing, range 20/60)
+light crossbow (+4, 1d8+2 piercing, range 80/320)
+20 bolts
+component pouch
+backpack
+bedroll
+mess kit
+tinderbox
+10 torches
+10 days of rations
+waterskin
+50 ft hempen rope
+a small knife
+a map of the city you grew up in
+a pet scorpion
+a token to remember your parents by (polished sandstone with dragon's head inscribed)
+a set of common clothes
