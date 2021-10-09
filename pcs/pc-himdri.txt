@@ -27,6 +27,7 @@ Spell save DC: 13
 Spell attack bonus: +5
 Cantrips (3): guidance, sacred flame, spare the dying
 Spells Prepared (6): 1st-bless, command, healing word, identify*, searing smite*, shield of faith; 2nd-heat metal*, magic weapon*, silence
+
 Spell Slots: 1st-[x][ ][ ][ ]; 2nd-[x][ ]
 
 Guild Business: Armourers, locksmiths and finesmiths

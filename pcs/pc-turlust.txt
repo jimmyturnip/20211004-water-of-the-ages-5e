@@ -9,7 +9,7 @@ Str	Dex	Con	Int	Wis	Cha
 +3	+2	+2	+1	+1	+1
 
 AC: 18
-HP: 28
+HP: 28, 12
 
 Class Features: Fighting Style (Dueling, +2 damage when wielding one melee weapon), Second Wind (1d10+2), Action Surge (1/long or short rest), Martial Archetype (Battlemaster), Maneuvers (DC 13), Superiority Dice (4d8)
 
@@ -20,7 +20,7 @@ Tools: card set, vehicles (land), carpenter's tools
 Saving Throws: Strength, Constitution
 Skills: Athletics, Intimidation, Perception, Survival
 
-Second Wind [ ]
+Second Wind [x]
 Action Surge [x]
 
 Languages: Common, Elven

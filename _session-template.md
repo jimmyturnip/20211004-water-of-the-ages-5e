@@ -52,4 +52,4 @@ Narrative is written like this.
 **What's fun about this scene**:  
 
 
-[Session X-1](https://github.com/jimmyturnip/dragon-wing-5e/blob/master/session-xx.md) | [Session X+1](https://github.com/jimmyturnip/dragon-wing-5e/blob/master/session-xx.md)
+[Session X-1](https://github.com/jimmyturnip/water-of-the-ages/blob/master/session-xx.md) | [Session X+1](https://github.com/jimmyturnip/water-of-the-ages/blob/master/session-xx.md)

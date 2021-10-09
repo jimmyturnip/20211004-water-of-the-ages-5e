@@ -1,8 +1,8 @@
 # Session 1
 
-*[Write summary here.]*
+Turlust leads the Nathram caravan out of Tyr, but even before it reaches the gates of the city, it's attacked by looters, either brave or desperate from the recent changes the city has undergone. After a hard-won battle atop the caravan's main wagon, they pass through the gates and into the baking desert. Himdri and Turlust discuss the quest that the warrior was charged with, and the dwarf gives him words of warning.
 
-**Date**: 2021-MM-DD  
+**Date**: 2021-10-09  
 **System**: D&D 5e  
 **GME**: Mythic  
 **Characters**: Turlust, Laeral, Himdri  
@@ -122,7 +122,7 @@ The **half-giant** roars in pain as he grazes himself on a spike, but manages to
     attacks the half-giant with his battleaxe. +5 vs AC 11. 18. Hits for 6
     (1d8+5) slashing damage.
 
-> TURLUST
+> TURLUST  
 > The brute! Kill the brute!
 
     The looter attacks Himdri with his scimitar. +3 vs AC 18. 6. Miss.
@@ -174,25 +174,53 @@ Finally, Laeral's magical fire hits home and engulfs the half-giant. As it wrest
     Turlust attacks the looter. +5 vs AC 12. 16. Hits for 7 (1d8+5) slashing.
     He's dead!
 
-Just as the battle atop the great wagon ends, so too does the gang of looters melt back into the alleyways. Sweating and bloody, Turlust surveys the street. Bodies, both looters and caravan guard litter the road. They can't afford to linger here and obtain their dead, though. Leave them to the templars - who just happened to be nowhere in sight this whole time. No surprises there.
+Just as the battle atop the great wagon ends, so too the gang of looters melts back into the alleyways. Sweating and bloody, Turlust surveys the street. Bodies, both looters and caravan guard litter the road. They can't afford to linger here and obtain their dead, though. Leave them to the templars - who just happened to be nowhere in sight this whole time. No surprises there.
+
+
+
+
+
+## Scene 2
+**Setup**: The caravan sets off from Tyr.  
+**Altered/Interrupted**: No.  
+**What's fun about this scene**: Chance for social interaction, learn about the caravan.  
+
+Templars at the towering Caravan Gate wave the Nathram caravan through without further delays. It's hard to believe they didn't see the attack on the caravan, and yet they did nothing to help. Turlust glares at them as they pass.
+
+    Let's ask a few questions about the caravan.
+    Is Turlust the leader (somewhat likely, 65%)? 53. Yes. He's been charged
+    with leading this mission.
+    What is the caravan's cargo? Roll on Random Element Descriptors from Mythic
+    Magazine 3. [Valuable, large] Lumber, as well as craft goods.
+    How badly was the caravan affected by the attack? Roll 1d100. 6. Not very,
+    only a few guards were hurt.
+
+Once past the gate, Himdri comes over to Turlust.
+
+> HIMDRI  
+> That was close. Lucky there weren't more of them. We could have come off much worse. Look at you. Barely out of Tyr and your half-dead. Come. Let me bind those wounds.
+
+Turlust nods and follows Himdri under to the makeshift shade on top of the wagon. The canvas flutters loudly in the breeze.
+
+> TURLUST  
+> I'm glad to get out of that cursed city. Kalak dead. A templar on the throne. Who know which one's worse. At least where we go, we know who and what to look out for.
+
+> HIMDRI  
+> Don't be so sure. You of all people should know the dangers that these wastes hide. And what about that urn full of...whatever it is. The Water of the Ages. Isn't that what the elf called it? Bah! He's having you on.
+
+> TURLUST  
+> He's dead, remember? Araldor was a friend. We had many adventures together back when I was with the Talons. I owed him my life, and I'll pay that debt. He asked me to take this to Urik, and that's what I'll do.
+
+> HIMDRI
+> And I'll see to it that we all get there, friend. Just don't put too much faith in the words of a dead man. It's the living that matter. We honour the dead with our prayers and thoughts, not with fool's errands.
+
+Turlust looks darkly into the sickly-coloured horizon as he considers his friend's words.
 
     TODO:
     Choose Turlust's manuevers
-
-## Scene X
-**Setup**:  
-**Altered/Interrupted**:  
-**What's fun about this scene**:  
+    Decide on wilderness travel procedure
 
 
 
 
-
-
-## Scene X
-**Setup**:  
-**Altered/Interrupted**:  
-**What's fun about this scene**:  
-
-
-[Session X-1](https://github.com/jimmyturnip/dragon-wing-5e/blob/master/session-xx.md) | [Session X+1](https://github.com/jimmyturnip/dragon-wing-5e/blob/master/session-xx.md)
+[Session 2](https://github.com/jimmyturnip/water-of-the-ages/blob/master/session-2.md)
