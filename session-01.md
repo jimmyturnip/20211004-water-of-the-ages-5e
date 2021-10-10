@@ -195,6 +195,8 @@ Templars at the towering Caravan Gate wave the Nathram caravan through without f
     How badly was the caravan affected by the attack? Roll 1d100. 6. Not very,
     only a few guards were hurt.
 
+[Mekillot-drawn caravan. Artwork by Brom](https://github.com/jimmyturnip/water-of-the-ages/blob/master/mekillot.jpg)
+
 Once past the gate, Himdri comes over to Turlust.
 
 > HIMDRI  
@@ -211,7 +213,7 @@ Turlust nods and follows Himdri under to the makeshift shade on top of the wagon
 > TURLUST  
 > He's dead, remember? Araldor was a friend. We had many adventures together back when I was with the Talons. I owed him my life, and I'll pay that debt. He asked me to take this to Urik, and that's what I'll do.
 
-> HIMDRI
+> HIMDRI  
 > And I'll see to it that we all get there, friend. Just don't put too much faith in the words of a dead man. It's the living that matter. We honour the dead with our prayers and thoughts, not with fool's errands.
 
 Turlust looks darkly into the sickly-coloured horizon as he considers his friend's words.
@@ -223,4 +225,4 @@ Turlust looks darkly into the sickly-coloured horizon as he considers his friend
 
 
 
-[Session 2](https://github.com/jimmyturnip/water-of-the-ages/blob/master/session-2.md)
+[Session 2](https://github.com/jimmyturnip/water-of-the-ages/blob/master/session-02.md)

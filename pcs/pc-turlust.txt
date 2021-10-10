@@ -23,6 +23,8 @@ Skills: Athletics, Intimidation, Perception, Survival
 Second Wind [x]
 Action Surge [x]
 
+Wild Talent: chill touch (sorcerer; +3, on hit 1d8 necrotic damage and target can't regain hp, range 60)
+
 Languages: Common, Elven
 
 Background Specialty: Infantry

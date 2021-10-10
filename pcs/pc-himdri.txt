@@ -30,6 +30,8 @@ Spells Prepared (6): 1st-bless, command, healing word, identify*, searing smite*
 
 Spell Slots: 1st-[x][ ][ ][ ]; 2nd-[x][ ]
 
+Wild Talent: light (cleric)
+
 Guild Business: Armourers, locksmiths and finesmiths
 
 Background Feature: Guild Membership

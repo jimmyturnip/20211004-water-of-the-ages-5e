@@ -32,6 +32,8 @@ Spell Slots: 1st-[x][ ][ ][ ], 2nd-[ ][ ]
 
 Sorcery Points: 3
 
+Wild Talent: mage hand (warlock)
+
 Equipment:
 2 daggers (+4, 1d4+2 piercing, range 20/60)
 light crossbow (+4, 1d8+2 piercing, range 80/320)
@@ -51,7 +53,7 @@ a pet scorpion
 a token to remember your parents by (polished sandstone with dragon's head inscribed)
 a set of common clothes
 
-Personality Traits: I hide scraps of food and trinkets away in my pockets. Also, I blunty say what other people are hinting at or hiding.
+Personality Traits: I hide scraps of food and trinkets away in my pockets. Also, I bluntly say what other people are hinting at or hiding.
 Ideal: I'm going to prove that I'm worthy of a better life.
 Bond: I owe my survival to another urchin who taught me to live on the streets.
 Flaw: It's not stealing if I need it more than someone else.
