@@ -84,21 +84,21 @@ He remembers playing with a small clay figurine of a woman when he was a child, 
 **Turlust asks about Laeral's pet scorpion**  
 Gathered around the fire at night, Laeral pets and coos at the arachnid. Turlust grimaces in disgust.
 
-> TURLUST
+> TURLUST  
 > Does that thing have to come with us?
 
-> LAERAL
+> LAERAL  
 > She's not a thing. She's a living creature.
 
-> TURLUST
+> TURLUST  
 > Why do you bring it everywhere? It's just a scorpion. They're just...gross.
 
-> LAERAL
+> LAERAL  
 > She's not gross. She's beautiful, aren't you, dear?
 
 The scorpion just sits in the palm of her hand. Laeral looks into the fire.
 
-> LAERAL
+> LAERAL  
 > Do you want to hear a story? There was a woman long ago, a mage of great power. She tended a garden. You see, not all mages take the path of the defiler, the path sinister, they call it. She loved her garden, and grew flowers and fruit more beautiful than you can imagine. One day, her love stumbled into her grotto with a terrible wound. He warned her that people were following him, and to be ready for them. Then a group of slavers came and saw their quarry. There were too many of them for the mage to take on with her magic, not without giving in to the path of defilement. But she refused to be tempted, and so her lover was slain and she was taken by the slavers. They say there's a cave somewhere in the Ringing Mountains filled with plants and wildlife found nowhere else. It's her cave. She chose slavery and the death of her love over using defiling magic. Do you see? That's why I keep the scorpion. If I were to be tempted, even for a second, to stray from the preserver's path, the scorpion would die. That's how you know I'm not one of them.
 
 Turlust shrugs. Preservers, defilers, mages... it makes no difference to him. As long as his belly and his purse are full, he doesn't care.
@@ -112,7 +112,7 @@ The scorpion doesn't sleep, but others do, including Turlust.
 
 **What is the hope of Himdri's people?**  
 
-> HIMDRI
+> HIMDRI  
 > What kind of foolish question is that? Why, to keep their young safe. To prosper. To create great works. Hmm. To see an end to the accursed sorcerer-kings. Well, that wish is coming true, but who knows what will happen now those templars are filling the void left behind. To see balance once again in the world. To see the fire in the sky tempered by cooling waters, and the sands rest for ever more, no longer whipped by the wind. These are our hopes. What of yours?
 
 
