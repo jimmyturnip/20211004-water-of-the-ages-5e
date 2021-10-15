@@ -1,6 +1,6 @@
 # Session X
 
-*Summary*: [Write summary here.]
+*[Write summary here.]*
 
 **Date**: 2021-MM-DD  
 **System**: D&D 5e  

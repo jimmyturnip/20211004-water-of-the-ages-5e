@@ -1,6 +1,6 @@
 # Wilderness Exploration
 
-One scene is a day. Each day, ask these questions:
+One scene is a day. Altered and interrupted scenes might model getting lost. Otherwise, each day, ask these questions:
 
 	DAY X
 	WEATHER
@@ -26,7 +26,6 @@ One scene is a day. Each day, ask these questions:
 	MAP
 	  Update map
 
-This procedure doesn't include chance of getting lost, but I'm not too bothered about that.
 
 ## Weather
 

@@ -36,7 +36,7 @@
 13-16	Merchant House of Nathram  
 17-20	Araldor (dead?)  
 21-24	The Talons (Turlust's old mercenary company)  
-25-28	New character  
+25-28	Nyarlim (leader of Silver Spring tribe)  
 29-32	Choose most logical character  
 33-36	New character  
 37-40	New character  

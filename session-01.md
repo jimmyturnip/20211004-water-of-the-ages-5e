@@ -1,6 +1,6 @@
 # Session 1
 
-Turlust leads the Nathram caravan out of Tyr, but even before it reaches the gates of the city, it's attacked by looters, either brave or desperate from the recent changes the city has undergone. After a hard-won battle atop the caravan's main wagon, they pass through the gates and into the baking desert. Himdri and Turlust discuss the quest that the warrior was charged with, and the dwarf gives him words of warning.
+*Summary*: Turlust leads the Nathram caravan out of Tyr, but even before it reaches the gates of the city, it's attacked by looters, either brave or desperate from the recent changes the city has undergone. After a hard-won battle atop the caravan's main wagon, they pass through the gates and into the baking desert. Himdri and Turlust discuss the quest that the warrior was charged with, and the dwarf gives him words of warning.
 
 **Date**: 2021-10-09  
 **System**: D&D 5e  

@@ -1,6 +1,6 @@
 # Names
 
-1. Abersath  
+1.   
 2. Akan  
 3. Alfaxera  
 4. Alya  
@@ -40,7 +40,7 @@
 38. Hawk  
 39.  
 40.  
-41. Ikali  
+41.   
 42. Isaryn  
 43. Ismegor  
 44. Jarette  
@@ -60,7 +60,7 @@
 58. Manatak  
 59. Marillie  
 60. Maskardy  
-61. Melandriel  
+61.   
 62.  
 63. Naladvath  
 64. Narilim  
@@ -68,7 +68,7 @@
 66. Nebin  
 67. Nerelein  
 68. Ninilth  
-69. Nyarlim  
+69.   
 70. Palearin  
 71. Praj  
 72. Ravjan  
