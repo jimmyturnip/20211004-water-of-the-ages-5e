@@ -37,7 +37,7 @@
 17-20	Araldor (dead?)  
 21-24	The Talons (Turlust's old mercenary company)  
 25-28	Nyarlim (leader of Silver Spring tribe)  
-29-32	Choose most logical character  
+29-32	Abersath (Nyarlim's rival)  
 33-36	New character  
 37-40	New character  
 41-44	New character  

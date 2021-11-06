@@ -1,6 +1,6 @@
 # Session 2
 
-*Summary*: The caravan sets off into the Alluvial Sand Wastes following the Urik road. During the nights, they talk about the ghosts of their past, and their dreams for the future. After a few days of arduous travel, they arrive at Silver Spring, an oasis ruled by an elf tribe. The elves offer a warm welcome, but this is merely a ruse, as the chieftain blackmails the adventurers into dealing with a traitorous lieutenant.
+*Summary:* The caravan sets off into the Alluvial Sand Wastes following the Urik road. During the nights, they talk about the ghosts of their past, and their dreams for the future. After a few days of arduous travel, they arrive at Silver Spring, an oasis ruled by an elf tribe. The elves offer a warm welcome, but this is merely a ruse, as the chieftain blackmails the adventurers into dealing with a traitorous lieutenant.
 
 **Date**: 2021-10-10  
 **System**: D&D 5e  
@@ -166,10 +166,10 @@ They arrive at a large tent with open sides. They feel relief as the tent provid
 
 Turlust has made this trip a number of times and was ready for this.
 
-> TURLUST
+> TURLUST  
 > Yes, we accept.
 
-> NYARLIM
+> NYARLIM  
 > Good. And you will break bread with us tonight.
 
 Curious. This hasn't happened before. Still, Turlust and the others accept the chieftain's offer.
